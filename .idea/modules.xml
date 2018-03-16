@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bobileTest.iml" filepath="$PROJECT_DIR$/.idea/modules/bobileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bobileTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bobileTest_main.iml" group="bobileTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bobileTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bobileTest_test.iml" group="bobileTest" />
+    </modules>
+  </component>
+</project>
